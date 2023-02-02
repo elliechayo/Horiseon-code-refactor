@@ -14,7 +14,7 @@ The objective of the project was to clean up and enhance the existing code of th
 
 
 
-## Items Completed  
+## Work Completed  
 
 
 * The existing HTML elements were given semantic HTML elements
@@ -36,7 +36,7 @@ The objective of the project was to clean up and enhance the existing code of th
  
 
 The  following image shows the web application appearance and functionality 
-![screenshot] ()
+![html screenshot](assets/images/html-screenshot.png)
 
 
 
